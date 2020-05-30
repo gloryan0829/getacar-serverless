@@ -5,7 +5,7 @@ export default welcome = async event => {
         statusCode: 200,
         body: JSON.stringify(
             {
-                message: 'Go Serverless v1.0! Your function executed successfully!',
+                message: 'DoubleJ 견적 서비스',
                 input: event,
             },
             null,
