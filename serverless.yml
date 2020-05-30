@@ -1,7 +1,6 @@
-service: get-a-car
-# app and org for use with dashboard.serverless.com
-#app: getacar
-#org: day34
+app: getacar
+org: day34
+service: car-service
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
@@ -14,7 +13,14 @@ provider:
 # you can overwrite defaults here
   stage: dev
   region: ap-northeast-2
-
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+      Resource: "*"
 # you can add statements to the Lambda function's IAM Role here
 #  iamRoleStatements:
 #    - Effect: "Allow"
@@ -45,12 +51,38 @@ provider:
 #    - exclude-me-dir/**
 
 functions:
-  hello:
+  welcome:
+    name: welcome
     handler: src/routes/index.welcome
     events:
       - http:
           path: welcome
           method: get
+          cors: true
+  getBrandList:
+    name: car-brand-list
+    handler: src/routes/common/index.getBrandList
+    events:
+      - http:
+          path: car/brand/list
+          method: get
+          cors: true
+  getModelList:
+    name: car-model-list
+    handler: src/routes/common/index.getModelList
+    events:
+      - http:
+          path: car/{brandCode}/model/list
+          method: get
+          cors: true
+  getModelOne:
+    name: car-model
+    handler: src/routes/common/index.getModelOne
+    events:
+      - http:
+          path: car/model/{carModel}
+          method: get
+          cors: true
 #      - websocket: $connect
 #      - s3: ${env:BUCKET}
 #      - schedule: rate(10 minutes)
@@ -85,7 +117,24 @@ functions:
 #      variable2: value2
 
 # you can add CloudFormation resource templates here
-#resources:
+
+resources:
+  Resources:
+    carBrandTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: carBrands
+        AttributeDefinitions:
+          - AttributeName: id
+            AttributeType: N
+        KeySchema:
+          - AttributeName: id
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+
+
 #  Resources:
 #    NewResource:
 #      Type: AWS::S3::Bucket
@@ -95,3 +144,36 @@ functions:
 #     NewOutput:
 #       Description: "Description for the output"
 #       Value: "Some output value"
+
+custom:
+  stages:
+    - dev
+  webpack:
+    webpackConfig: ./webpack.config.js
+    includeModules: true
+  serverless-offline:
+    useChildProcesses: true
+  dynamodb:
+    # If you only want to use DynamoDB Local in some stages, declare them here
+    stages:
+      - dev
+    start:
+      port: 8000
+      inMemory: true
+      heapInitial: 200m
+      heapMax: 1g
+      migrate: true
+      seed: true
+      convertEmptyValues: true
+    seed:
+      test:
+        sources:
+          - table: carBrands
+            sources: [./data/car-brand.json]
+    # Uncomment only if you already have a DynamoDB running locally
+    # noStart: true
+
+plugins:
+  - serverless-webpack
+  - serverless-offline
+  - serverless-dynamodb-local

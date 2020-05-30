@@ -1,0 +1,5238 @@
+[
+    {
+        "_id": 1893997,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "true"
+        },
+        "title": "기아 모닝 F/L (3세대)",
+        "etcInfo": {
+            "bodyType": "HATCHBACK",
+            "generation": "gst00024RR36",
+            "lastUpdatedAt": "2020-05-12T11:13:45.245+0900",
+            "releaseDate": "20200512",
+            "cpId": "M_1873",
+            "maxPassengers": "5",
+            "maxEfficiency": "15.7",
+            "efficiencyUnit": "km/l",
+            "grades": "rfh0000djjk4",
+            "orgId": "mmg00004EEnd",
+            "years": "2021",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "15.7",
+            "sterilizeDate": "00000000",
+            "series": "sx10001a11ib",
+            "imported": "N",
+            "segment": "B",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20200512",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/5c5723/341D649260C729CAB94EE97B34B43E15D43D27EC246C3CB7BD_66MA",
+            "description": "",
+            "mlTrainYn": "N",
+            "mlStep": "R",
+            "orgKeyword": "기아 모닝 F/L (3세대)"
+        },
+        "ranking": {
+            "minEfficiency": 157,
+            "maxEfficiency": 157,
+            "minPrice": 11750000,
+            "maxPrice": 14800000,
+            "pv": 183,
+            "avgRate": 2.5
+        },
+        "contentsMapDt": {
+            "news": 1590364622672,
+            "harmony": 1590373438287,
+            "photo": 1589311625426,
+            "comment": 1590310819000,
+            "video": 1589865918000
+        },
+        "contentsCounter": {
+            "news": 18,
+            "harmony": 29,
+            "photo": 36,
+            "comment": 2,
+            "video": 10
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/5c5723/341D649260C729CAB94EE97B34B43E15D43D27EC246C3CB7BD_66MA"
+        },
+        "totalCount": 18,
+        "keyword": ["모닝 F/L", "Morning F/L", "모닝어반", "MorningUrban"],
+        "regDt": 1589250966914,
+        "modiDt": 1590373438287,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "keyword": ["기아", "Kia", "기아자동차"]
+        }
+    },
+    {
+        "_id": 5031773,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 모닝 밴 F/L (3세대)",
+        "etcInfo": {
+            "bodyType": "VAN",
+            "generation": "gst00024RR36",
+            "lastUpdatedAt": "2020-05-12T16:59:58.035+0900",
+            "releaseDate": "20200512",
+            "cpId": "M_1874",
+            "maxPassengers": "2",
+            "maxEfficiency": "15.7",
+            "efficiencyUnit": "km/l",
+            "grades": "rx20000byyqj",
+            "orgId": "mmx00005EEw9",
+            "years": "2021",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "2",
+            "minEfficiency": "15.7",
+            "sterilizeDate": "00000000",
+            "series": "sx10001a11ib",
+            "imported": "N",
+            "segment": "B",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20200512",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/5c5723/341D649260C729CAB94EE97B34B43E15D43D27EC246C3CB7BD_66MA",
+            "description": "",
+            "orgKeyword": "기아 모닝 밴 F/L (3세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 157,
+            "maxEfficiency": 157,
+            "minPrice": 11800000,
+            "maxPrice": 12350000,
+            "avgRate": 3.0
+        },
+        "contentsMapDt": {
+            "news": 1589270076154,
+            "harmony": 1589266387399,
+            "comment": 1589288136000,
+            "photo": 1589311625349
+        },
+        "contentsCounter": {
+            "news": 3,
+            "harmony": 7,
+            "comment": 1,
+            "photo": 36
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/5c5723/341D649260C729CAB94EE97B34B43E15D43D27EC246C3CB7BD_66MA"
+        },
+        "totalCount": 0,
+        "keyword": ["모닝밴F/L", "MorningVanF/L", "모닝어반", "MorningUrban"],
+        "regDt": 1589270767055,
+        "modiDt": 1589270076154,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1704749,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 모하비 더 마스터 (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gn800021RRww",
+            "lastUpdatedAt": "2020-05-07T11:36:42.491+0900",
+            "releaseDate": "20190905",
+            "cpId": "M_1689",
+            "maxPassengers": "7",
+            "maxEfficiency": "9.4",
+            "efficiencyUnit": "km/l",
+            "grades": "rhx0000vZZxl",
+            "orgId": "mrc00002pphh",
+            "years": "2020",
+            "powerTrain": "DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "9.4",
+            "sterilizeDate": "00000000",
+            "series": "swu00018112l",
+            "imported": "N",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20200507",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/52264f/C3028662237DAAA9F203CF2F5BEA74EBD4F97C9615FDE9991A_6ZEH",
+            "description": "",
+            "orgKeyword": "기아 모하비 더 마스터 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 94,
+            "maxEfficiency": 94,
+            "minPrice": 46470000,
+            "maxPrice": 56520000,
+            "avgRate": 2.6,
+            "pv": 260
+        },
+        "contentsMapDt": {
+            "news": 1589179978643,
+            "harmony": 1590381646865,
+            "photo": 1567658165576,
+            "video": 1588923032000
+        },
+        "contentsCounter": {
+            "news": 71,
+            "harmony": 57,
+            "photo": 10,
+            "video": 44
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/52264f/C3028662237DAAA9F203CF2F5BEA74EBD4F97C9615FDE9991A_6ZEH"
+        },
+        "totalCount": 71,
+        "keyword": [
+            "모하비 더 마스터",
+            "MOHAVE THE MASTER",
+            "모하비 F/L 2",
+            "MOHAVE F/L 2",
+            "모하비F/L2",
+            "MOHAVEF/L2",
+            "모하비 더 마스터",
+            "MOHAVE THE MASTER",
+            "모하비더마스터",
+            "MOHAVETHEMASTER"
+        ],
+        "regDt": 1565760964602,
+        "modiDt": 1590381646865,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162611,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 K3 세단 (2세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "gvg0001nRRsj",
+            "releaseDate": "20180227",
+            "maxPassengers": "5",
+            "maxEfficiency": "15.2",
+            "grades": "rke0002gwwzy,rca00026ww5n,rr000008JJ8n",
+            "orgId": "m5n0002pppt8",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "15.2",
+            "sterilizeDate": "00000000",
+            "series": "sm10001111os",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_92",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:23.078+0900",
+            "latestReleaseDate": "20200420",
+            "years": "2018,2019,2021",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/4c713b/6D2382CD68AC8597B5AA9A844C789F560FBD00245102C70281_6651",
+            "description": "",
+            "mlTrainYn": "N",
+            "mlStep": "R",
+            "orgKeyword": "기아 K3 세단 (2세대)"
+        },
+        "ranking": {
+            "minEfficiency": 152,
+            "maxEfficiency": 152,
+            "minPrice": 17140000,
+            "maxPrice": 20870000,
+            "avgRate": 4.4,
+            "pv": 126
+        },
+        "contentsMapDt": {
+            "news": 1590381107678,
+            "harmony": 1588118416203,
+            "photo": 1562959653188,
+            "video": 1587947745000
+        },
+        "contentsCounter": {
+            "news": 48,
+            "harmony": 78,
+            "photo": 47,
+            "video": 9
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/4c713b/6D2382CD68AC8597B5AA9A844C789F560FBD00245102C70281_6651"
+        },
+        "totalCount": 48,
+        "keyword": ["케이쓰리세단", "K3 세단", "K3 SEDAN", "K3세단", "K3SEDAN"],
+        "regDt": 1543222469048,
+        "modiDt": 1590381107678,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1195648,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 K3 해치백 (2세대)",
+        "etcInfo": {
+            "bodyType": "HATCHBACK",
+            "generation": "gvg0001nRRsj",
+            "releaseDate": "20180101",
+            "cpId": "M_1225",
+            "maxPassengers": "5",
+            "maxEfficiency": "12.1",
+            "grades": "rhm0002bwwuo,rey00029wwlq,rpc0001lQQ95",
+            "orgId": "mst00001KK1u",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "12.1",
+            "sterilizeDate": "00000000",
+            "series": "sm10001111os",
+            "imported": "N",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-04-20T19:37:27.650+0900",
+            "latestReleaseDate": "20200420",
+            "years": "2018,2019,2021",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/911131/0646B27CC8A7A56D7DA3E1C6D5FDB7710A7276D90D343813CB_7ZEM",
+            "description": "",
+            "orgKeyword": "기아 K3 해치백 (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 121,
+            "maxEfficiency": 121,
+            "minPrice": 21870000,
+            "maxPrice": 24510000,
+            "avgRate": 3.3
+        },
+        "contentsMapDt": {
+            "news": 1556579946777,
+            "harmony": 1587340223436,
+            "photo": 1562959719723,
+            "video": 1572613688000
+        },
+        "contentsCounter": {
+            "news": 39,
+            "harmony": 47,
+            "photo": 2,
+            "video": 11
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/911131/0646B27CC8A7A56D7DA3E1C6D5FDB7710A7276D90D343813CB_7ZEM"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "케이쓰리해치백",
+            "K3 해치백",
+            "K3 HATCHBACK",
+            "K3해치백",
+            "K3HATCHBACK"
+        ],
+        "regDt": 1544416360761,
+        "modiDt": 1587340223436,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162608,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 K9 (2세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "g6n0001tRRyl",
+            "releaseDate": "20180719",
+            "maxPassengers": "5",
+            "maxEfficiency": "9.0",
+            "grades": "r9200074GGpl,r9500075GG5i,r9700076GGdy,rpi0003eMMq6,rpl0003fMMqm,rpm0003gMMd9,rdv00017dd0s,rdy00018ddrb,rmo00003pp2i,rmu00004ppob,rmz00005pp1z,rjj0000977ly,rjn0000a772y,rjp0000b77cc",
+            "orgId": "mca0002zpp8u",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "7.5",
+            "sterilizeDate": "00000000",
+            "series": "srg0001411b3",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_95",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:21.974+0900",
+            "latestReleaseDate": "20200409",
+            "years": "2018,2019,2020,2021",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/0f78ec/9DF0FC81EE913F75C4D8B9C9DD8ED565A2973F27D8DC377855_5HCY",
+            "description": "",
+            "orgKeyword": "기아 K9 (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 75,
+            "maxEfficiency": 90,
+            "minPrice": 54370000,
+            "maxPrice": 92320000,
+            "avgRate": 4.1,
+            "pv": 209
+        },
+        "contentsMapDt": {
+            "news": 1590647509047,
+            "harmony": 1590538199863,
+            "photo": 1586399765266,
+            "comment": 1590631975000,
+            "video": 1588732262000
+        },
+        "contentsCounter": {
+            "news": 65,
+            "harmony": 91,
+            "photo": 28,
+            "comment": 1,
+            "video": 16
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/0f78ec/9DF0FC81EE913F75C4D8B9C9DD8ED565A2973F27D8DC377855_5HCY"
+        },
+        "totalCount": 65,
+        "keyword": ["뉴 K9", "NEW K9", "뉴K9", "NEWK9"],
+        "regDt": 1543222468974,
+        "modiDt": 1590647509047,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1295710,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 쏘울 부스터 EV (3세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gkg0001zRRqp",
+            "releaseDate": "20190305",
+            "cpId": "M_1247",
+            "maxPassengers": "5",
+            "maxEfficiency": "5.6",
+            "efficiencyUnit": "km/kWh",
+            "grades": "ry10000r441b,rzc00000yynt",
+            "orgId": "my40000s44pl",
+            "powerTrain": "ELECTRIC",
+            "minPassengers": "5",
+            "minEfficiency": "5.6",
+            "sterilizeDate": "00000000",
+            "series": "su50001711og",
+            "imported": "N",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "lastUpdatedAt": "2020-03-23T17:50:53.343+0900",
+            "latestReleaseDate": "20200323",
+            "years": "2019,2021",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/fa5d9f/56DF83925E17EBF4968E51A707D03DBB6FF724B1E034C68517_5TJF",
+            "description": "",
+            "orgKeyword": "기아 쏘울 부스터 EV (3세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 56,
+            "maxEfficiency": 56,
+            "minPrice": 41870000,
+            "maxPrice": 48340000,
+            "avgRate": 4.0
+        },
+        "contentsMapDt": {
+            "news": 1581380133119,
+            "harmony": 1585184426960,
+            "photo": 1562959717986,
+            "comment": 1585010224000,
+            "video": 1583063262000
+        },
+        "contentsCounter": {
+            "news": 63,
+            "harmony": 35,
+            "photo": 27,
+            "comment": 1,
+            "video": 7
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/fa5d9f/56DF83925E17EBF4968E51A707D03DBB6FF724B1E034C68517_5TJF"
+        },
+        "totalCount": 0,
+        "keyword": ["쏘울", "쏘울부스터이브이", "쏘울부스터EV"],
+        "regDt": 1548120551536,
+        "modiDt": 1585184426960,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1303885,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 쏘울 부스터 (3세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gkg0001zRRqp",
+            "lastUpdatedAt": "2020-05-07T17:06:34.317+0900",
+            "releaseDate": "20190123",
+            "cpId": "M_1284",
+            "maxPassengers": "5",
+            "maxEfficiency": "12.4",
+            "efficiencyUnit": "km/l",
+            "grades": "rfn00003ww6h,rp300002aado",
+            "orgId": "mmg00000WWg8",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "12.4",
+            "sterilizeDate": "00000000",
+            "series": "su50001711og",
+            "imported": "N",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "latestReleaseDate": "20200323",
+            "years": "2019,2021",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/2ebcca/D663929D1B1134FC2A67353DC40A9E1B2BA9E815C267658B3C_9M08",
+            "description": "",
+            "orgKeyword": "기아 쏘울 부스터 (3세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 124,
+            "maxEfficiency": 124,
+            "minPrice": 19100000,
+            "maxPrice": 22930000,
+            "avgRate": 3.7
+        },
+        "contentsMapDt": {
+            "news": 1581380133119,
+            "harmony": 1590475576556,
+            "photo": 1585028166600,
+            "video": 1585639238000
+        },
+        "contentsCounter": {
+            "news": 30,
+            "harmony": 53,
+            "photo": 26,
+            "video": 15
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/2ebcca/D663929D1B1134FC2A67353DC40A9E1B2BA9E815C267658B3C_9M08"
+        },
+        "totalCount": 30,
+        "keyword": [
+            "쏘울 부스터",
+            " SOUL BOOSTER",
+            " 쏘울부스터",
+            " SOULBOOSTER"
+        ],
+        "regDt": 1548383762551,
+        "modiDt": 1590475576556,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1869659,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "true"
+        },
+        "title": "기아 쏘렌토 (4세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gja00003kkfc",
+            "lastUpdatedAt": "2020-05-06T14:09:39.120+0900",
+            "releaseDate": "20200220",
+            "cpId": "M_1816",
+            "maxPassengers": "5",
+            "maxEfficiency": "14.3",
+            "efficiencyUnit": "km/l",
+            "grades": "rr800002kk4v,r0e0000022al",
+            "orgId": "mij00002kkw7",
+            "years": "2020",
+            "powerTrain": "DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "13.9",
+            "sterilizeDate": "00000000",
+            "series": "slz0001011zk",
+            "imported": "N",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20200317",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/8b770a/BB324B3CC8AD25AB8A9A36BF37080B57406210B1D81BD29A04_7064",
+            "description": "",
+            "orgKeyword": "기아 쏘렌토 (4세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 139,
+            "maxEfficiency": 143,
+            "minPrice": 29480000,
+            "maxPrice": 40470000,
+            "avgRate": 2.4,
+            "pv": 1257
+        },
+        "contentsMapDt": {
+            "news": 1588726278891,
+            "harmony": 1590538199863,
+            "photo": 1585028166465,
+            "comment": 1589557834000,
+            "video": 1589769321000
+        },
+        "contentsCounter": {
+            "news": 132,
+            "harmony": 110,
+            "photo": 39,
+            "comment": 1,
+            "video": 66
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/8b770a/BB324B3CC8AD25AB8A9A36BF37080B57406210B1D81BD29A04_7064"
+        },
+        "totalCount": 132,
+        "keyword": ["쏘렌토", "SORENTO", "신형쏘렌토"],
+        "regDt": 1581905165952,
+        "modiDt": 1590538199863,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1870284,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 쏘렌토 하이브리드 (4세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gja00003kkfc",
+            "lastUpdatedAt": "2020-02-19T15:00:33.118+0900",
+            "releaseDate": "20200220",
+            "cpId": "M_1825",
+            "maxPassengers": "5",
+            "maxEfficiency": "15.3",
+            "efficiencyUnit": "km/l",
+            "grades": "rrh00003kk4t",
+            "orgId": "m4x0000aOOma",
+            "years": "2020",
+            "powerTrain": "HYBRID",
+            "minPassengers": "5",
+            "minEfficiency": "15.3",
+            "sterilizeDate": "00000000",
+            "series": "slz0001011zk",
+            "imported": "N",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20200220",
+            "group": "PASSENGER_CAR",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/8b770a/BB324B3CC8AD25AB8A9A36BF37080B57406210B1D81BD29A04_7064",
+            "description": "",
+            "salesStatus": "S",
+            "mlTrainYn": "N",
+            "mlStep": "R",
+            "orgKeyword": "기아 쏘렌토 하이브리드 (4세대)"
+        },
+        "ranking": {
+            "minEfficiency": 153,
+            "maxEfficiency": 153,
+            "minPrice": 36630000,
+            "maxPrice": 42130000,
+            "avgRate": 1.9,
+            "pv": 181
+        },
+        "contentsMapDt": {
+            "news": 1589073505022,
+            "harmony": 1584411262571,
+            "photo": 1582140424052,
+            "video": 1582594274000
+        },
+        "contentsCounter": {
+            "news": 11,
+            "harmony": 15,
+            "photo": 16,
+            "video": 5
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/8b770a/BB324B3CC8AD25AB8A9A36BF37080B57406210B1D81BD29A04_7064"
+        },
+        "totalCount": 0,
+        "keyword": ["쏘렌토하이브리드", "SORENTOHYBRID", "신형쏘렌토"],
+        "regDt": 1582092365658,
+        "modiDt": 1589073505022,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 5009501,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 봉고 3 EV (4세대)",
+        "etcInfo": {
+            "bodyType": "TRUCK",
+            "generation": "gvo00026RR9j",
+            "lastUpdatedAt": "2020-02-06T10:59:11.164+0900",
+            "releaseDate": "20200106",
+            "cpId": "M_1799",
+            "maxPassengers": "6",
+            "maxEfficiency": "9.7",
+            "efficiencyUnit": "km/kWh",
+            "grades": "rdd0000nXXqj",
+            "orgId": "mpy0000gkkjp",
+            "years": "2020",
+            "powerTrain": "ELECTRIC",
+            "minPassengers": "6",
+            "minEfficiency": "9.7",
+            "sterilizeDate": "00000000",
+            "series": "sx30001b11g1",
+            "imported": "N",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20200106",
+            "group": "TRUCK",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/229a04/117BA004C088870723F11125259257D02B249FFA52268F83DA_5Z6A",
+            "description": "",
+            "orgKeyword": "기아 봉고 3 EV (4세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 97,
+            "maxEfficiency": 97,
+            "minPrice": 40500000,
+            "maxPrice": 42700000,
+            "avgRate": 1.0
+        },
+        "contentsMapDt": {
+            "harmony": 1580963311575,
+            "news": 1579997373623
+        },
+        "contentsCounter": {
+            "harmony": 3,
+            "news": 4
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/229a04/117BA004C088870723F11125259257D02B249FFA52268F83DA_5Z6A"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "봉고3이브이",
+            "봉고 3 EV",
+            "BONGO III EV",
+            "봉고3EV",
+            "BONGOIIIEV"
+        ],
+        "regDt": 1578296165886,
+        "modiDt": 1580963311575,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162610,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 니로 EV (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gye0001pRRlc",
+            "releaseDate": "20180719",
+            "maxPassengers": "5",
+            "maxEfficiency": "5.3",
+            "grades": "r1300072GGor,rsf00001oon0",
+            "orgId": "m880002qppdh",
+            "powerTrain": "ELECTRIC",
+            "minPassengers": "5",
+            "minEfficiency": "5.3",
+            "sterilizeDate": "00000000",
+            "series": "sm4000121159",
+            "segment": "C",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_93",
+            "efficiencyUnit": "km/kWh",
+            "lastUpdatedAt": "2020-02-06T10:57:02.119+0900",
+            "latestReleaseDate": "20200101",
+            "years": "2018,2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/8b6a90/C5AFF95C0C0F3E46A80189E77A7E2EB91C61DC7AE46E9800E2_7ZY1",
+            "description": "",
+            "orgKeyword": "기아 니로 EV (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 53,
+            "maxEfficiency": 53,
+            "minPrice": 44500000,
+            "maxPrice": 49800000,
+            "avgRate": 3.0
+        },
+        "contentsMapDt": {
+            "news": 1588374665338,
+            "harmony": 1587452726265,
+            "photo": 1562959719694,
+            "video": 1584587642000
+        },
+        "contentsCounter": {
+            "news": 77,
+            "harmony": 57,
+            "photo": 4,
+            "video": 3
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/8b6a90/C5AFF95C0C0F3E46A80189E77A7E2EB91C61DC7AE46E9800E2_7ZY1"
+        },
+        "totalCount": 0,
+        "keyword": ["니로 EV", "NIRO EV", "니로EV", "NIROEV", "니로이브이"],
+        "regDt": 1543222469025,
+        "modiDt": 1588374665338,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162616,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 카니발 하이리무진 F/L (3세대)",
+        "etcInfo": {
+            "bodyType": "VAN",
+            "generation": "gc60001fRR8k",
+            "releaseDate": "20180313",
+            "maxPassengers": "11",
+            "maxEfficiency": "10.3",
+            "grades": "rta0006aGGw6,rte0006bGGex,rth0006cGGz5,rn400008YYhh,rnf00009YYcj,rnt0000aYYgl,rnz0000bYYbx,ro60000cYY7j",
+            "orgId": "mzp0002epp8h",
+            "powerTrain": "DIESEL,GASOLINE",
+            "minPassengers": "7",
+            "minEfficiency": "7.6",
+            "sterilizeDate": "00000000",
+            "series": "slr0000x11mt",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "group": "BUS",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_87",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-01-03T18:04:53.524+0900",
+            "latestReleaseDate": "20200101",
+            "years": "2018,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/27d4ff/8ED77781CA31406A3550612BCF07516C761A95013832474D4A_8WZS",
+            "description": "",
+            "orgKeyword": "기아 카니발 하이리무진 F/L (3세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 76,
+            "maxEfficiency": 103,
+            "minPrice": 44350000,
+            "maxPrice": 59760000,
+            "avgRate": 3.8,
+            "pv": 180
+        },
+        "contentsMapDt": {
+            "news": 1557014453732,
+            "harmony": 1586861861637,
+            "photo": 1562959720120
+        },
+        "contentsCounter": {
+            "news": 3,
+            "harmony": 8,
+            "photo": 13
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/27d4ff/8ED77781CA31406A3550612BCF07516C761A95013832474D4A_8WZS"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "더 뉴 카니발 하이리무진",
+            "THE NEW CARNIVAL HUGH LIMOUSINE",
+            "더뉴카니발하이리무진",
+            "THENEWCARNIVALHUGHLIMOUSINE"
+        ],
+        "regDt": 1543222469254,
+        "modiDt": 1586861861637,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162617,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 스토닉 (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "g6o0001eRRto",
+            "releaseDate": "20170101",
+            "maxPassengers": "5",
+            "maxEfficiency": "13.5",
+            "grades": "rsh00065GGcb,rsl00066GGu6,rsp00067GGf5,rss00068GGwk,rsv00069GGmc,r5300009XXew,r590000aXXek",
+            "orgId": "mx50002dpphp",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "12.8",
+            "sterilizeDate": "00000000",
+            "series": "sjb0000w11h6",
+            "segment": "C",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_86",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:25.882+0900",
+            "latestReleaseDate": "20200101",
+            "years": "2017,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/6df390/DCA13AA2875DD58129CF7DD63F5823B85ED4120DF4CF1D2A83_6O5I",
+            "description": "",
+            "orgKeyword": "기아 스토닉 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 128,
+            "maxEfficiency": 135,
+            "minPrice": 15840000,
+            "maxPrice": 21110000,
+            "avgRate": 3.4
+        },
+        "contentsMapDt": {
+            "news": 1564866010395,
+            "harmony": 1583276404927,
+            "photo": 1562959653899,
+            "video": 1564979312000
+        },
+        "contentsCounter": {
+            "news": 41,
+            "harmony": 64,
+            "photo": 81,
+            "video": 4
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/6df390/DCA13AA2875DD58129CF7DD63F5823B85ED4120DF4CF1D2A83_6O5I"
+        },
+        "totalCount": 0,
+        "keyword": ["스토닉", "STONIC"],
+        "regDt": 1543222469283,
+        "modiDt": 1583276404927,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1594674,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 K7 하이브리드 F/L (2세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "gcf0001wRRqv",
+            "lastUpdatedAt": "2020-04-06T13:47:04.450+0900",
+            "releaseDate": "20190715",
+            "cpId": "M_1657",
+            "maxPassengers": "5",
+            "maxEfficiency": "16.2",
+            "efficiencyUnit": "km/l",
+            "grades": "r1g000wgooh2",
+            "orgId": "m9l0007flle5",
+            "powerTrain": "HYBRID",
+            "minPassengers": "5",
+            "minEfficiency": "16.2",
+            "sterilizeDate": "00000000",
+            "series": "srq000161135",
+            "imported": "N",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20200101",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/284d67/EBBB44DF26E13B5D92FEBB07681B79A5D2AFFAD263E55DF9F7_5EVK",
+            "description": "",
+            "orgKeyword": "기아 K7 하이브리드 F/L (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 162,
+            "maxEfficiency": 162,
+            "minPrice": 36220000,
+            "maxPrice": 40900000,
+            "avgRate": 4.2
+        },
+        "contentsMapDt": {
+            "news": 1581365274000,
+            "harmony": 1572243436094,
+            "photo": 1563338163910,
+            "video": 1569286481000
+        },
+        "contentsCounter": {
+            "news": 10,
+            "harmony": 5,
+            "photo": 8,
+            "video": 6
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/284d67/EBBB44DF26E13B5D92FEBB07681B79A5D2AFFAD263E55DF9F7_5EVK"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "K7",
+            "케이세븐하이브리드",
+            "케이7하이브리드",
+            "K7 하이브리드 F/L",
+            "K7 HYBRID F/L",
+            "K7하이브리드F/L",
+            "K7HYBRIDF/L",
+            "k7프리미어",
+            "페이스리프트",
+            "FACELIFT",
+            "F/L"
+        ],
+        "regDt": 1560305163188,
+        "modiDt": 1581365274000,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162606,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 레이 F/L (1세대)",
+        "etcInfo": {
+            "bodyType": "VAN",
+            "generation": "g9f0001vRRlc",
+            "releaseDate": "20180401",
+            "maxPassengers": "5",
+            "maxEfficiency": "13.0",
+            "grades": "rhh0007aGGvt,rhk0007bGG4a,rj30000aZZcz,rjd0000bZZyz,rxa00080ZZa1",
+            "orgId": "mef00030pp1g",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "2",
+            "minEfficiency": "13.0",
+            "sterilizeDate": "00000000",
+            "series": "srk0001511lv",
+            "segment": "C",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_97",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:21.190+0900",
+            "latestReleaseDate": "20191203",
+            "years": "2018,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/889149/CC3898F738E45BCB26003EEF00BF87F3C66F8F4938848643F6_5B1Y",
+            "description": "",
+            "mlTrainYn": "N",
+            "mlStep": "R",
+            "orgKeyword": "기아 레이 F/L (1세대)"
+        },
+        "ranking": {
+            "minEfficiency": 130,
+            "maxEfficiency": 130,
+            "minPrice": 12600000,
+            "maxPrice": 15700000,
+            "avgRate": 3.1,
+            "pv": 122
+        },
+        "contentsMapDt": {
+            "news": 1582510019073,
+            "harmony": 1590591903417,
+            "photo": 1562959652789,
+            "comment": 1582276139000,
+            "video": 1590587358000
+        },
+        "contentsCounter": {
+            "news": 76,
+            "harmony": 24,
+            "photo": 9,
+            "comment": 1,
+            "video": 7
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/889149/CC3898F738E45BCB26003EEF00BF87F3C66F8F4938848643F6_5B1Y"
+        },
+        "totalCount": 76,
+        "keyword": ["더 뉴 레이", "THE NEW RAY", "더뉴레이", "THENEWRAY"],
+        "regDt": 1543222468839,
+        "modiDt": 1590591903417,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1577645,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 K7 F/L (2세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "gcf0001wRRqv",
+            "lastUpdatedAt": "2020-05-07T17:06:33.832+0900",
+            "releaseDate": "20190615",
+            "cpId": "M_1654",
+            "maxPassengers": "5",
+            "maxEfficiency": "14.6",
+            "efficiencyUnit": "km/l",
+            "grades": "r1f000vxoosz,rh5000wdoo9n,rh8000weooa2,rh9000wfoogq,rcc00082ZZ06,rce00083ZZfg,rcg00084ZZ0s,rch00085ZZsw",
+            "orgId": "ma000079lliy",
+            "powerTrain": "GASOLINE,DIESEL,LPG",
+            "minPassengers": "5",
+            "minEfficiency": "7.6",
+            "sterilizeDate": "00000000",
+            "series": "srq000161135",
+            "imported": "N",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20191202",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/7ef19e/5933B38867D330C26A439C5B514B2326F08DB65668699D828E_5FA1",
+            "description": "",
+            "orgKeyword": "기아 K7 F/L (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 76,
+            "maxEfficiency": 146,
+            "minPrice": 30180000,
+            "maxPrice": 37270000,
+            "avgRate": 3.6,
+            "pv": 254
+        },
+        "contentsMapDt": {
+            "news": 1589331449000,
+            "harmony": 1589959473101,
+            "photo": 1571599625490,
+            "video": 1588027744000
+        },
+        "contentsCounter": {
+            "news": 58,
+            "harmony": 58,
+            "photo": 17,
+            "video": 48
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/7ef19e/5933B38867D330C26A439C5B514B2326F08DB65668699D828E_5FA1"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "K7",
+            "케이세븐",
+            "케이7",
+            "K7 F/L",
+            "K7F/L",
+            "k7프리미어",
+            "페이스리프트",
+            "FACELIFT",
+            "F/L"
+        ],
+        "regDt": 1559549163413,
+        "modiDt": 1589959473101,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1829232,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "true"
+        },
+        "title": "기아 K5 (3세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "gwy0000zrrgu",
+            "lastUpdatedAt": "2020-05-06T14:09:38.922+0900",
+            "releaseDate": "20191121",
+            "cpId": "M_1763",
+            "maxPassengers": "5",
+            "maxEfficiency": "13.8",
+            "efficiencyUnit": "km/l",
+            "grades": "rru0007fZZj0,ryl0007uZZgp,ryn0007vZZjr",
+            "orgId": "mq800023ppse",
+            "years": "2020",
+            "powerTrain": "GASOLINE,LPG",
+            "minPassengers": "5",
+            "minEfficiency": "10.0",
+            "sterilizeDate": "00000000",
+            "series": "sos000131152",
+            "imported": "N",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20191121",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/604f49/5B421482681AEF86EF00546E52DA294170E09EA0A4AF30BBAB_46Z4",
+            "description": "",
+            "orgKeyword": "기아 K5 (3세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 100,
+            "maxEfficiency": 138,
+            "minPrice": 20900000,
+            "maxPrice": 30630000,
+            "avgRate": 3.9,
+            "pv": 420
+        },
+        "contentsMapDt": {
+            "news": 1590516270664,
+            "harmony": 1590045610333,
+            "photo": 1577667966463,
+            "comment": 1590554497000,
+            "video": 1589766414000
+        },
+        "contentsCounter": {
+            "news": 155,
+            "harmony": 119,
+            "photo": 28,
+            "comment": 1,
+            "video": 64
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/604f49/5B421482681AEF86EF00546E52DA294170E09EA0A4AF30BBAB_46Z4"
+        },
+        "totalCount": 155,
+        "keyword": ["K5", "케이5", "케이파이브"],
+        "regDt": 1573527966536,
+        "modiDt": 1590516270664,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1836168,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 K5 하이브리드 (3세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "gwy0000zrrgu",
+            "lastUpdatedAt": "2020-04-06T13:47:06.084+0900",
+            "releaseDate": "20191121",
+            "cpId": "M_1769",
+            "maxPassengers": "5",
+            "maxEfficiency": "20.1",
+            "efficiencyUnit": "km/l",
+            "grades": "ryt0007wZZew",
+            "orgId": "myn00029pppi",
+            "years": "2020",
+            "powerTrain": "HYBRID",
+            "minPassengers": "5",
+            "minEfficiency": "20.1",
+            "sterilizeDate": "00000000",
+            "series": "sos000131152",
+            "imported": "N",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20191121",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/604f49/5B421482681AEF86EF00546E52DA294170E09EA0A4AF30BBAB_46Z4",
+            "description": "",
+            "orgKeyword": "기아 K5 하이브리드 (3세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 201,
+            "maxEfficiency": 201,
+            "minPrice": 27490000,
+            "maxPrice": 33270000,
+            "avgRate": 4.8
+        },
+        "contentsMapDt": {
+            "news": 1587260539307,
+            "harmony": 1584994721887,
+            "photo": 1577667966402,
+            "video": 1585884100000
+        },
+        "contentsCounter": {
+            "news": 2,
+            "harmony": 1,
+            "photo": 28,
+            "video": 6
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/604f49/5B421482681AEF86EF00546E52DA294170E09EA0A4AF30BBAB_46Z4"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "K5",
+            "케이5하이브리드",
+            "케이파이브하이브리드",
+            "K5 하이브리드",
+            "K5 HYBRID",
+            "K5하이브리드",
+            "K5HYBRID"
+        ],
+        "regDt": 1574240765349,
+        "modiDt": 1587260539307,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162612,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 카니발 F/L (3세대)",
+        "etcInfo": {
+            "bodyType": "VAN",
+            "generation": "gc60001fRR8k",
+            "releaseDate": "20180313",
+            "maxPassengers": "11",
+            "maxEfficiency": "11.4",
+            "grades": "ry20006uGG3w,ry50006vGGzk,ry70006wGGo0,rya0006xGGpy,ryc0006yGGud,ryf0006zGGol,ryh00070GGb4,rfv0002pZZf7",
+            "orgId": "mzr0002fppzw",
+            "powerTrain": "GASOLINE,DIESEL",
+            "minPassengers": "7",
+            "minEfficiency": "8.2",
+            "sterilizeDate": "00000000",
+            "series": "slr0000x11mt",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "group": "BUS",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_91",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:19.573+0900",
+            "latestReleaseDate": "20190904",
+            "years": "2018,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/daa68a/9CB3E68C241446E1E5CA2D50C73376E513348C6A3A050A4CC4_5GE5",
+            "description": "",
+            "orgKeyword": "기아 카니발 F/L (3세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 82,
+            "maxEfficiency": 114,
+            "minPrice": 28800000,
+            "maxPrice": 39770000,
+            "avgRate": 2.8,
+            "pv": 172
+        },
+        "contentsMapDt": {
+            "news": 1590539583355,
+            "harmony": 1590754504108,
+            "photo": 1562959653383,
+            "video": 1588952722000
+        },
+        "contentsCounter": {
+            "news": 79,
+            "harmony": 90,
+            "photo": 13,
+            "video": 8
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/daa68a/9CB3E68C241446E1E5CA2D50C73376E513348C6A3A050A4CC4_5GE5"
+        },
+        "totalCount": 79,
+        "keyword": [
+            "더 뉴 카니발",
+            "THE NEW CARNIVAL",
+            "더뉴카니발",
+            "THENEWCARNIVAL"
+        ],
+        "regDt": 1543222469074,
+        "modiDt": 1590754504108,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162614,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 스포티지 더 볼드 (4세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gkf0001jRRft",
+            "releaseDate": "20180724",
+            "maxPassengers": "5",
+            "maxEfficiency": "16.3",
+            "grades": "rvn0006jGGse,rvq0006kGGkw,rvt0006lGG1e,rvv0006mGGgz,rvy0006nGG3j,rd500018ZZ59,rd900019ZZh9,rdb0001aZZhh,rdc0001bZZuj,rde0001cZZy6",
+            "orgId": "m0y0002jppuw",
+            "powerTrain": "DIESEL,GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "10.5",
+            "sterilizeDate": "00000000",
+            "series": "slw0000z116t",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_89",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:21.407+0900",
+            "latestReleaseDate": "20190819",
+            "years": "2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/078a70/FD4BB1B97544020B91BC4CD591DEEB5C8C2E9E8BD73CC6B81A_6Z8C",
+            "description": "",
+            "orgKeyword": "기아 스포티지 더 볼드 (4세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 105,
+            "maxEfficiency": 163,
+            "minPrice": 22840000,
+            "maxPrice": 31020000,
+            "avgRate": 2.8,
+            "pv": 110
+        },
+        "contentsMapDt": {
+            "news": 1572729667466,
+            "harmony": 1590478170532,
+            "photo": 1566367564493,
+            "video": 1577435531000
+        },
+        "contentsCounter": {
+            "news": 55,
+            "harmony": 44,
+            "photo": 71,
+            "video": 6
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/078a70/FD4BB1B97544020B91BC4CD591DEEB5C8C2E9E8BD73CC6B81A_6Z8C"
+        },
+        "totalCount": 55,
+        "keyword": [
+            "스포티지 더 볼드",
+            "SPORTAGE THE BOLD",
+            "스포티지더볼드",
+            "SPORTAGETHEBOLD"
+        ],
+        "regDt": 1543222469168,
+        "modiDt": 1590478170532,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1624697,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "true"
+        },
+        "title": "기아 셀토스 (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "go80004j88cg",
+            "lastUpdatedAt": "2020-05-07T17:06:33.775+0900",
+            "releaseDate": "20190718",
+            "cpId": "M_1666",
+            "maxPassengers": "5",
+            "maxEfficiency": "17.6",
+            "efficiencyUnit": "km/l",
+            "grades": "rw5000x7ooz1,rw9000x8oohv,ruk0000qddix,ruv0000rddku",
+            "orgId": "mel0007plloa",
+            "powerTrain": "GASOLINE,DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "11.1",
+            "sterilizeDate": "00000000",
+            "series": "s6w00024KKe3",
+            "imported": "N",
+            "segment": "C",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20190718",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/ac951a/3044E1355A9BA37C3AE26C837F0FF24E93047976F823295E3A_503P",
+            "description": "",
+            "orgKeyword": "기아 셀토스 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 111,
+            "maxEfficiency": 176,
+            "minPrice": 18810000,
+            "maxPrice": 28650000,
+            "avgRate": 3.0,
+            "pv": 477
+        },
+        "contentsMapDt": {
+            "news": 1590012132000,
+            "harmony": 1590537601671,
+            "photo": 1563431764168,
+            "video": 1589857763000
+        },
+        "contentsCounter": {
+            "news": 135,
+            "harmony": 153,
+            "photo": 17,
+            "video": 40
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/ac951a/3044E1355A9BA37C3AE26C837F0FF24E93047976F823295E3A_503P"
+        },
+        "totalCount": 135,
+        "keyword": ["셀토스", "SELTOS"],
+        "regDt": 1561602963269,
+        "modiDt": 1590537601671,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162615,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 스팅어 (1세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "ghp0001hRRc2",
+            "releaseDate": "20170523",
+            "maxPassengers": "5",
+            "maxEfficiency": "15.0",
+            "grades": "rtu0006dGGf8,rtx0006eGGus,rtz0006fGGss,rv40006gGGzd,rv70006hGGbf,rva0006iGGr4,r2y0004iMMog,r320004jMMt1,r340004kMM33",
+            "orgId": "m020002ippq4",
+            "powerTrain": "GASOLINE,DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "8.8",
+            "sterilizeDate": "00000000",
+            "series": "slu0000y11ua",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_88",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:22.578+0900",
+            "latestReleaseDate": "20190508",
+            "years": "2018,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/bcdd63/35B99143880E70B5E77B07AA02A85C2874C40D6B758A07AA38_5Y5I",
+            "description": "",
+            "orgKeyword": "기아 스팅어 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 88,
+            "maxEfficiency": 150,
+            "minPrice": 34470000,
+            "maxPrice": 49320000,
+            "avgRate": 3.9,
+            "pv": 66
+        },
+        "contentsMapDt": {
+            "news": 1590647509047,
+            "harmony": 1590538199863,
+            "photo": 1562959653680,
+            "comment": 1590125586000,
+            "video": 1575447992000
+        },
+        "contentsCounter": {
+            "news": 46,
+            "harmony": 90,
+            "photo": 74,
+            "comment": 1,
+            "video": 16
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/bcdd63/35B99143880E70B5E77B07AA02A85C2874C40D6B758A07AA38_5Y5I"
+        },
+        "totalCount": 46,
+        "keyword": ["스팅어", "STINGER"],
+        "regDt": 1543222469218,
+        "modiDt": 1590647509047,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1389888,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 니로 하이브리드 F/L (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gye0001pRRlc",
+            "lastUpdatedAt": "2020-05-07T17:06:32.436+0900",
+            "releaseDate": "20190307",
+            "cpId": "M_1303",
+            "maxPassengers": "5",
+            "maxEfficiency": "19.5",
+            "efficiencyUnit": "km/l",
+            "grades": "rlq0000upp93",
+            "orgId": "mab0000exxep",
+            "powerTrain": "HYBRID",
+            "minPassengers": "5",
+            "minEfficiency": "19.5",
+            "sterilizeDate": "00000000",
+            "series": "sm4000121159",
+            "imported": "N",
+            "segment": "C",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20190307",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/7695f8/391CDD12E2F959A11805CA4CFF24A0BBB1131AF76F1F080B97_6UKB",
+            "description": "",
+            "orgKeyword": "기아 니로 하이브리드 F/L (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 195,
+            "maxEfficiency": 195,
+            "minPrice": 24200000,
+            "maxPrice": 29930000,
+            "avgRate": 4.5
+        },
+        "contentsMapDt": {
+            "news": 1579948983932,
+            "harmony": 1590478170532,
+            "photo": 1562959630619,
+            "video": 1575536599000
+        },
+        "contentsCounter": {
+            "news": 39,
+            "harmony": 31,
+            "photo": 11,
+            "video": 6
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/7695f8/391CDD12E2F959A11805CA4CFF24A0BBB1131AF76F1F080B97_6UKB"
+        },
+        "totalCount": 39,
+        "keyword": [
+            "니로 하이브리드 F/L",
+            "NIRO HYBRID F/L",
+            "니로하이브리드F/L",
+            "NIROHYBRIDF/L"
+        ],
+        "regDt": 1551940562261,
+        "modiDt": 1590478170532,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1389889,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 니로 플러그인 하이브리드 F/L (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gye0001pRRlc",
+            "lastUpdatedAt": "2020-01-03T19:22:53.573+0900",
+            "releaseDate": "20190307",
+            "cpId": "M_1302",
+            "maxPassengers": "5",
+            "maxEfficiency": "18.6",
+            "efficiencyUnit": "km/l",
+            "grades": "rdu0000tppnx",
+            "orgId": "ma70000dxx4u",
+            "powerTrain": "HYBRID",
+            "minPassengers": "5",
+            "minEfficiency": "18.6",
+            "sterilizeDate": "00000000",
+            "series": "sm4000121159",
+            "imported": "N",
+            "segment": "C",
+            "brand": "bde0000600fm",
+            "latestReleaseDate": "20190307",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/c9be7f/055AB8FC73493173B58776B3FC7FEAE5ECC9B0E41032F051CC_6VB2",
+            "description": "",
+            "orgKeyword": "기아 니로 플러그인 하이브리드 F/L (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 186,
+            "maxEfficiency": 186,
+            "minPrice": 35190000,
+            "maxPrice": 37450000
+        },
+        "contentsMapDt": {
+            "photo": 1562959719435,
+            "video": 1563341565000
+        },
+        "contentsCounter": {
+            "photo": 1546,
+            "video": 2
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/c9be7f/055AB8FC73493173B58776B3FC7FEAE5ECC9B0E41032F051CC_6VB2"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "니로 플러그인 하이브리드 F/L",
+            "NIRO PLUG-IN HYBRID F/L",
+            "니로플러그인하이브리드F/L",
+            "NIROPLUG-INHYBRIDF/L"
+        ],
+        "regDt": 1551940562411,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162595,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 봉고 3 (4세대)",
+        "etcInfo": {
+            "bodyType": "TRUCK",
+            "generation": "gvo00026RR9j",
+            "releaseDate": "20120106",
+            "maxPassengers": "0",
+            "maxEfficiency": "8.8",
+            "grades": "rkb00085GGmi,rke00086GGhi,rkh00087GGgg,rkk00088GG4o,rkn00089GG5u,rkq0008aGG31,rkt0008bGGlm,rkv0008cGGuc,rky0008dGG2k,r970000owwsy,r3z0001uwwu2,rve0001kww23,rc00000twwdn,raw0000uooq8",
+            "orgId": "mqi0003dppgy",
+            "powerTrain": "DIESEL,LPG",
+            "minPassengers": "0",
+            "minEfficiency": "6.5",
+            "sterilizeDate": "00000000",
+            "series": "sx30001b11g1",
+            "segment": "E",
+            "brand": "bde0000600fm",
+            "group": "TRUCK",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_108",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:05:21.923+0900",
+            "latestReleaseDate": "20181029",
+            "years": "2008,2012,2013,2014,2017,2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/722ae2/4B8F74A3D461783EABB38F6795F8163F2EBDDC4EFAADE84A58_AKD8",
+            "description": "",
+            "orgKeyword": "기아 봉고 3 (4세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 65,
+            "maxEfficiency": 88,
+            "minPrice": 14940000,
+            "maxPrice": 20640000,
+            "avgRate": 2.0
+        },
+        "contentsMapDt": {
+            "news": 1588896783919,
+            "harmony": 1578295949983,
+            "photo": 1562959652519,
+            "video": 1590767328000
+        },
+        "contentsCounter": {
+            "news": 14,
+            "harmony": 11,
+            "photo": 13,
+            "video": 4
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/722ae2/4B8F74A3D461783EABB38F6795F8163F2EBDDC4EFAADE84A58_AKD8"
+        },
+        "totalCount": 14,
+        "keyword": ["봉고 3", "BONGO III", "봉고3", "BONGOIII"],
+        "regDt": 1543222468498,
+        "modiDt": 1588896783919,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1162601,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "기아 쏘울 EV F/L (2세대)",
+        "etcInfo": {
+            "bodyType": "HATCHBACK",
+            "generation": "ghu0001yRRad",
+            "releaseDate": "20160822",
+            "maxPassengers": "5",
+            "maxEfficiency": "5.2",
+            "grades": "r3z0007rGGkv,r420007sGGa3",
+            "orgId": "mi800035pp8i",
+            "powerTrain": "ELECTRIC",
+            "minPassengers": "5",
+            "minEfficiency": "5.2",
+            "sterilizeDate": "00000000",
+            "series": "su50001711og",
+            "segment": "D",
+            "brand": "bde0000600fm",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_102",
+            "efficiencyUnit": "km/kWh",
+            "lastUpdatedAt": "2020-02-06T10:57:04.682+0900",
+            "latestReleaseDate": "20180719",
+            "years": "2017,2018",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/9a35af/8C2A24454D07282483EFBCA4E07A202085699EFFA50A51559A_6UJ3",
+            "description": "",
+            "orgKeyword": "기아 쏘울 EV F/L (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 52,
+            "maxEfficiency": 52,
+            "minPrice": 42800000,
+            "maxPrice": 42800000,
+            "avgRate": 5.0
+        },
+        "contentsMapDt": {
+            "news": 1585180859000,
+            "harmony": 1590544903352,
+            "photo": 1562959718701,
+            "video": 1589849356000
+        },
+        "contentsCounter": {
+            "news": 26,
+            "harmony": 35,
+            "photo": 4,
+            "video": 2
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/9a35af/8C2A24454D07282483EFBCA4E07A202085699EFFA50A51559A_6UJ3"
+        },
+        "totalCount": 26,
+        "keyword": [
+            "쏘울이브이",
+            "더 뉴 쏘울 EV",
+            "THE NEW SOUL EV",
+            "더뉴소울EV",
+            "THENEWSOULEV"
+        ],
+        "regDt": 1543222468723,
+        "modiDt": 1590544903352,
+        "parentCluster": {
+            "_id": 1161298,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "기아",
+            "etcInfo": {
+                "titleEn": "Kia",
+                "orgId": "bde0000600fm",
+                "order": "02",
+                "appendPrefix": "Y",
+                "tel1": "080-200-2000",
+                "showroom": "https://www.kia.com/kr/shopping-tools/branch/branch-list.html",
+                "consulting": "https://www.kia.com/kr/shopping-tools/quick-counsel/intro.html",
+                "homepage": "https://www.kia.com/kr/main.html",
+                "guarantee": "http://red.kia.com/kr/view/qben/qass/assureCare.do",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "orgKeyword": "기아",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590647509047,
+                "harmony": 1590754504108,
+                "video": 1590767328000,
+                "comment": 1574040922000,
+                "outlink": 1573459089957
+            },
+            "contentsCounter": {
+                "news": 1986,
+                "harmony": 1817,
+                "video": 449,
+                "comment": 1276,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/bde0000600fm.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/bde0000600fm.png"
+            },
+            "totalCount": 1986,
+            "keyword": ["기아", "Kia", "기아자동차"],
+            "regDt": 1543219486658,
+            "modiDt": 1590754504108
+        }
+    },
+    {
+        "_id": 1789052,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "true"
+        },
+        "title": "쉐보레 트레일블레이저 (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "geq0000frrot",
+            "lastUpdatedAt": "2020-05-07T17:06:34.129+0900",
+            "releaseDate": "20200116",
+            "cpId": "M_1723",
+            "maxPassengers": "5",
+            "maxEfficiency": "13.2",
+            "efficiencyUnit": "km/l",
+            "grades": "r530008r222a,rhp00003QQwf,r2b00001qq3n",
+            "orgId": "mxv0000zpp3u",
+            "years": "2021",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "11.8",
+            "sterilizeDate": "00000000",
+            "series": "soa00006qqgm",
+            "imported": "N",
+            "segment": "C",
+            "brand": "b2r0002u00zv",
+            "latestReleaseDate": "20200116",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/06ec7f/EA5DC2F02EBA5FB1AF2DBF7DFA8F5BDB78FA0B2A61112DC931_7403",
+            "description": "",
+            "orgKeyword": "쉐보레 트레일블레이저 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 118,
+            "maxEfficiency": 132,
+            "minPrice": 19100000,
+            "maxPrice": 27100000,
+            "avgRate": 4.3,
+            "pv": 316
+        },
+        "contentsMapDt": {
+            "news": 1590618544000,
+            "harmony": 1590537601671,
+            "photo": 1579149365733,
+            "video": 1588217524000
+        },
+        "contentsCounter": {
+            "news": 318,
+            "harmony": 186,
+            "photo": 11,
+            "video": 48
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/06ec7f/EA5DC2F02EBA5FB1AF2DBF7DFA8F5BDB78FA0B2A61112DC931_7403"
+        },
+        "totalCount": 318,
+        "keyword": ["트레일블레이저", "TRAILBLAZER"],
+        "regDt": 1568181965249,
+        "modiDt": 1590618544000,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161589,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 이쿼녹스 (3세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gwz000i7RRti",
+            "releaseDate": "20180101",
+            "maxPassengers": "5",
+            "maxEfficiency": "13.3",
+            "grades": "rb6001vdGGjg,rb8001veGGew,rql0006fww1m,rta0006jww9y,rp500002oo79",
+            "orgId": "mzu000v2ppen",
+            "powerTrain": "DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "13.3",
+            "sterilizeDate": "00000000",
+            "series": "smn000e311gk",
+            "segment": "D",
+            "brand": "b2r0002u00zv",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "videoSort": "cluster1161589",
+            "imported": "Y",
+            "cpId": "M_1114",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:31.723+0900",
+            "latestReleaseDate": "20200101",
+            "years": "2018,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/fbfafc/246B172A2ED6F60A6BBD15364A966908B9E5E17A10E31747D4_AI2E",
+            "description": "",
+            "mlTrainYn": "N",
+            "mlStep": "R",
+            "endDate": "20200331",
+            "orgKeyword": "쉐보레 이쿼녹스 (3세대)"
+        },
+        "ranking": {
+            "minEfficiency": 133,
+            "maxEfficiency": 133,
+            "minPrice": 28990000,
+            "maxPrice": 38750000,
+            "avgRate": 4.6,
+            "pv": 98
+        },
+        "contentsMapDt": {
+            "news": 1585709841807,
+            "harmony": 1585705804411,
+            "photo": 1562959632620,
+            "video": 1581134078000
+        },
+        "contentsCounter": {
+            "news": 54,
+            "harmony": 85,
+            "photo": 32,
+            "video": 5
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/fbfafc/246B172A2ED6F60A6BBD15364A966908B9E5E17A10E31747D4_AI2E"
+        },
+        "totalCount": 0,
+        "keyword": ["이쿼녹스", "EQUINOX"],
+        "regDt": 1543222438374,
+        "modiDt": 1585709841807,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161597,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 트랙스 F/L (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gn8000hyRRw3",
+            "releaseDate": "20161017",
+            "maxPassengers": "5",
+            "maxEfficiency": "14.1",
+            "grades": "rwf001unGGmf,rwh001uoGGv7,rwj001upGG39,rwl001uqGGqz,rwm001urGGub,rwo001usGGux,rlo0000ckkc4,rlk00008XXhc",
+            "orgId": "mp9000urppca",
+            "powerTrain": "DIESEL,GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "11.8",
+            "sterilizeDate": "00000000",
+            "series": "sjz000dw11co",
+            "segment": "C",
+            "brand": "b2r0002u00zv",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_1106",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:31.435+0900",
+            "latestReleaseDate": "20200101",
+            "years": "2017,2018,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/7eb463/53FC485FD112D1B4201F0D4E9C5A09E8552B896635F2CD4704_77Q8",
+            "description": "",
+            "orgKeyword": "쉐보레 트랙스 F/L (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 118,
+            "maxEfficiency": 141,
+            "minPrice": 17480000,
+            "maxPrice": 24080000,
+            "avgRate": 4.8
+        },
+        "contentsMapDt": {
+            "news": 1589250269000,
+            "harmony": 1588730478038,
+            "photo": 1562959633067,
+            "video": 1485418734000
+        },
+        "contentsCounter": {
+            "news": 78,
+            "harmony": 43,
+            "photo": 21,
+            "video": 3
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/7eb463/53FC485FD112D1B4201F0D4E9C5A09E8552B896635F2CD4704_77Q8"
+        },
+        "totalCount": 0,
+        "keyword": ["더 뉴 트랙스", "THE NEW TRAX", "더뉴트랙스", "THENEWTRAX"],
+        "regDt": 1543222438652,
+        "modiDt": 1589250269000,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1405479,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 말리부 F/L (9세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "gkt000hsRR5p",
+            "lastUpdatedAt": "2020-05-07T17:06:32.294+0900",
+            "releaseDate": "20181126",
+            "cpId": "M_1307",
+            "maxPassengers": "5",
+            "maxEfficiency": "15.3",
+            "efficiencyUnit": "km/l",
+            "grades": "rvu00000MMyh,rxr00001MM83,rxu00002MMsj,r2e00000994m,r7h00001995l,r7o00002994l",
+            "orgId": "m5v0000ixx2p",
+            "powerTrain": "GASOLINE,DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "10.8",
+            "sterilizeDate": "00000000",
+            "series": "sjt000dt11d1",
+            "imported": "N",
+            "segment": "D",
+            "brand": "b2r0002u00zv",
+            "latestReleaseDate": "20191216",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/c95417/6AB52E87BD5F51245664840EA8836D6FD0D8D1861248700AD1_6LMY",
+            "description": "",
+            "orgKeyword": "쉐보레 말리부 F/L (9세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 108,
+            "maxEfficiency": 153,
+            "minPrice": 23060000,
+            "maxPrice": 31960000,
+            "avgRate": 4.7,
+            "pv": 104
+        },
+        "contentsMapDt": {
+            "news": 1585704906087,
+            "harmony": 1587046315719,
+            "photo": 1562920564797,
+            "video": 1582865678000
+        },
+        "contentsCounter": {
+            "news": 53,
+            "harmony": 40,
+            "photo": 6,
+            "video": 11
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/c95417/6AB52E87BD5F51245664840EA8836D6FD0D8D1861248700AD1_6LMY"
+        },
+        "totalCount": 0,
+        "keyword": ["말리부 F/L", "MALIBU F/L"],
+        "regDt": 1552552562607,
+        "modiDt": 1587046315719,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161596,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 스파크 F/L (2세대)",
+        "etcInfo": {
+            "bodyType": "HATCHBACK",
+            "generation": "gnn000hzRRqi",
+            "releaseDate": "20180523",
+            "maxPassengers": "5",
+            "maxEfficiency": "15.0",
+            "grades": "rtr0049lnnow,rlf0008jZZk1",
+            "orgId": "mqk000utppgg",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "2",
+            "minEfficiency": "15.0",
+            "sterilizeDate": "00000000",
+            "series": "sk0000dx11bc",
+            "segment": "B",
+            "brand": "b2r0002u00zv",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_1107",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:29.787+0900",
+            "latestReleaseDate": "20191205",
+            "years": "2019,2020",
+            "showPromotion": "off",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/fd3432/3A912107CCC63282D6BB876B3D4D78450BCEF6D86C5A3A24E9_7WAJ",
+            "description": "",
+            "orgKeyword": "쉐보레 스파크 F/L (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 150,
+            "maxEfficiency": 150,
+            "minPrice": 9770000,
+            "maxPrice": 14870000,
+            "avgRate": 4.1,
+            "pv": 114
+        },
+        "contentsMapDt": {
+            "news": 1590188415495,
+            "harmony": 1589356300061,
+            "photo": 1562959633027,
+            "video": 1578991641000
+        },
+        "contentsCounter": {
+            "news": 97,
+            "harmony": 67,
+            "photo": 3,
+            "video": 3
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/fd3432/3A912107CCC63282D6BB876B3D4D78450BCEF6D86C5A3A24E9_7WAJ"
+        },
+        "totalCount": 97,
+        "keyword": [
+            "더 뉴 스파크",
+            "THE NEW SPARK",
+            "더뉴스파크",
+            "THENEWSPARK"
+        ],
+        "regDt": 1543222438610,
+        "modiDt": 1590188415495,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161588,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 트래버스 (2세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gzs000i9RRej",
+            "releaseDate": "20180101",
+            "maxPassengers": "7",
+            "maxEfficiency": "8.3",
+            "grades": "rct001vfGGa8,rcw001vgGGsg,r2o0001zMMkg,r2q00020MMug",
+            "orgId": "m10000v3ppyw",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "7",
+            "minEfficiency": "8.3",
+            "sterilizeDate": "00000000",
+            "series": "smp000e411iv",
+            "segment": "E",
+            "brand": "b2r0002u00zv",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "Y",
+            "cpId": "M_1115",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-14T10:37:30.662+0900",
+            "latestReleaseDate": "20190903",
+            "years": "2018,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/031e55/556FBE37714250D7D3E62379CA62638BC84467CA003B827DFD_4VS4",
+            "description": "",
+            "orgKeyword": "쉐보레 트래버스 (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R",
+            "endDate": "20200426"
+        },
+        "ranking": {
+            "minEfficiency": 83,
+            "maxEfficiency": 83,
+            "minPrice": 44470000,
+            "maxPrice": 54570000,
+            "avgRate": 4.1,
+            "pv": 201
+        },
+        "contentsMapDt": {
+            "news": 1589802542349,
+            "harmony": 1589800337666,
+            "photo": 1567478165371,
+            "video": 1581466576000
+        },
+        "contentsCounter": {
+            "news": 136,
+            "harmony": 136,
+            "photo": 22,
+            "video": 29
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/031e55/556FBE37714250D7D3E62379CA62638BC84467CA003B827DFD_4VS4"
+        },
+        "totalCount": 0,
+        "keyword": ["트래버스", "TRAVERSE"],
+        "regDt": 1543222438346,
+        "modiDt": 1589802542349,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161584,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "true"
+        },
+        "title": "쉐보레 콜로라도 (2세대)",
+        "etcInfo": {
+            "bodyType": "PICK_UP_TRUCK",
+            "generation": "g8c000icRR9v",
+            "releaseDate": "20150101",
+            "maxPassengers": "5",
+            "maxEfficiency": "8.3",
+            "grades": "rir001voGGpf,rit001vpGG3n,r490001xMMcf,r4d0001yMM8d,rfn0001jZZ9q",
+            "orgId": "m4z000v7pptv",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "8.1",
+            "sterilizeDate": "00000000",
+            "series": "smu000e711rq",
+            "segment": "E",
+            "brand": "b2r0002u00zv",
+            "group": "TRUCK",
+            "salesStatus": "S",
+            "imported": "Y",
+            "cpId": "M_1119",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:30.904+0900",
+            "latestReleaseDate": "20190815",
+            "years": "2015,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/ad2ef6/2249F1C4909113D5DFC1AE60C896C7EDB31B58CEDE0DB3F727_6ANC",
+            "description": "",
+            "orgKeyword": "쉐보레 콜로라도 (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 81,
+            "maxEfficiency": 83,
+            "minPrice": 38550000,
+            "maxPrice": 43500000,
+            "avgRate": 3.8,
+            "pv": 201
+        },
+        "contentsMapDt": {
+            "news": 1589753344191,
+            "harmony": 1590658681045,
+            "photo": 1567150565644,
+            "video": 1581296335000
+        },
+        "contentsCounter": {
+            "news": 130,
+            "harmony": 101,
+            "photo": 15,
+            "video": 43
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/ad2ef6/2249F1C4909113D5DFC1AE60C896C7EDB31B58CEDE0DB3F727_6ANC"
+        },
+        "totalCount": 130,
+        "keyword": [
+            "콜로라도",
+            "COLORADO",
+            "콜로라도 픽업트럭",
+            "콜로라도 트럭",
+            "콜로라도픽업트럭",
+            "콜로라도트럭"
+        ],
+        "regDt": 1543222438157,
+        "modiDt": 1590658681045,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161594,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 볼트 EV (1세대)",
+        "etcInfo": {
+            "bodyType": "HATCHBACK",
+            "generation": "go7000i2RR6l",
+            "releaseDate": "20180101",
+            "maxPassengers": "5",
+            "maxEfficiency": "5.5",
+            "grades": "r7l00231GGei,raj00234GGs6,rqz0001qMMax",
+            "orgId": "mt4000uwpp25",
+            "powerTrain": "ELECTRIC",
+            "minPassengers": "5",
+            "minEfficiency": "5.5",
+            "sterilizeDate": "00000000",
+            "series": "sme000dz11q1",
+            "segment": "C",
+            "brand": "b2r0002u00zv",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "Y",
+            "cpId": "M_1109",
+            "efficiencyUnit": "km/kWh",
+            "lastUpdatedAt": "2020-05-07T17:06:31.474+0900",
+            "latestReleaseDate": "20190314",
+            "years": "2017,2018,2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/6df035/5B315FBD788F4243277CB2ACC687DEDCFF8F4137CCFFA5B21A_7Q2K",
+            "description": "",
+            "orgKeyword": "쉐보레 볼트 EV (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 55,
+            "maxEfficiency": 55,
+            "minPrice": 45930000,
+            "maxPrice": 48140000,
+            "avgRate": 4.0
+        },
+        "contentsMapDt": {
+            "news": 1581206857849,
+            "harmony": 1588569183456,
+            "photo": 1562959632819,
+            "video": 1581434861000
+        },
+        "contentsCounter": {
+            "news": 74,
+            "harmony": 104,
+            "photo": 29,
+            "video": 6
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/6df035/5B315FBD788F4243277CB2ACC687DEDCFF8F4137CCFFA5B21A_7Q2K"
+        },
+        "totalCount": 0,
+        "keyword": ["볼트 EV", "BOLT EV", "볼트EV", "BOLTEV", "볼트이브이"],
+        "regDt": 1543222438550,
+        "modiDt": 1588569183456,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161591,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 임팔라 (10세대)",
+        "etcInfo": {
+            "bodyType": "SEDAN",
+            "generation": "gu8000i6RRs1",
+            "releaseDate": "20140101",
+            "maxPassengers": "0",
+            "maxEfficiency": "10.5",
+            "grades": "r8f001v6GG5d,r8h001v7GGwh,r8j001v8GG40,r8l001v9GGtb,r8n001vaGGtf,r8q001vbGG9r,rjg00032MMro,rjk00033MMtd",
+            "orgId": "myi000v1ppp2",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "0",
+            "minEfficiency": "9.2",
+            "sterilizeDate": "00000000",
+            "series": "sml000e211tv",
+            "segment": "E",
+            "brand": "b2r0002u00zv",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "Y",
+            "cpId": "M_1112",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:30.340+0900",
+            "latestReleaseDate": "20190301",
+            "years": "2014,2016,2018,2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/dcf5cb/4DF060B5521C170248C0D21AF0D5FE288FFAC4DBF6356A057C_6NLK",
+            "description": "",
+            "orgKeyword": "쉐보레 임팔라 (10세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 92,
+            "maxEfficiency": 105,
+            "minPrice": 35500000,
+            "maxPrice": 43610000,
+            "avgRate": 4.7
+        },
+        "contentsMapDt": {
+            "news": 1575160741037,
+            "harmony": 1583199647191,
+            "photo": 1562959632728,
+            "video": 1476936943000
+        },
+        "contentsCounter": {
+            "news": 83,
+            "harmony": 9,
+            "photo": 12,
+            "video": 4
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/dcf5cb/4DF060B5521C170248C0D21AF0D5FE288FFAC4DBF6356A057C_6NLK"
+        },
+        "totalCount": 0,
+        "keyword": ["임팔라", "IMPALA"],
+        "regDt": 1543222438439,
+        "modiDt": 1583199647191,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1161598,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쉐보레 카마로 SS (6세대)",
+        "etcInfo": {
+            "bodyType": "COUPE",
+            "generation": "gmr000huRRk9",
+            "releaseDate": "20160602",
+            "maxPassengers": "4",
+            "maxEfficiency": "7.4",
+            "grades": "ru7001uiGGgy,ru9001ujGGef,rub001ukGGlc,rud001ulGGdf,ruf001umGG94",
+            "orgId": "mlu000uppptp",
+            "powerTrain": "GASOLINE",
+            "minPassengers": "4",
+            "minEfficiency": "7.4",
+            "sterilizeDate": "00000000",
+            "series": "sjv000du11hu",
+            "segment": "D",
+            "brand": "b2r0002u00zv",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "Y",
+            "cpId": "M_1105",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:30.415+0900",
+            "latestReleaseDate": "20181213",
+            "years": "2017,2018,2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/1f5207/7F867A279A6886201264042F11D5C3CF67E72E13FA4F0A7B01_711H",
+            "description": "",
+            "orgKeyword": "쉐보레 카마로 SS (6세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 74,
+            "maxEfficiency": 74,
+            "minPrice": 53560000,
+            "maxPrice": 54360000,
+            "avgRate": 4.8
+        },
+        "contentsMapDt": {
+            "news": 1545093348298,
+            "harmony": 1577410210313,
+            "photo": 1562959633144,
+            "video": 1556548841000
+        },
+        "contentsCounter": {
+            "news": 5,
+            "harmony": 18,
+            "photo": 20,
+            "video": 6
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/1f5207/7F867A279A6886201264042F11D5C3CF67E72E13FA4F0A7B01_711H"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "카마로에스에스",
+            "카마로 SS",
+            "CAMARO SS",
+            "카마로SS",
+            "CAMAROSS"
+        ],
+        "regDt": 1543222438707,
+        "modiDt": 1577410210313,
+        "parentCluster": {
+            "_id": 1161276,
+            "factor": {
+                "service": "auto",
+                "category": "combination",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쉐보레",
+            "etcInfo": {
+                "titleEn": "GMKorea-CHEVROLET",
+                "orgId": "b2r0002u00zv",
+                "order": "05",
+                "appendPrefix": "Y",
+                "tel1": "080-3000-5000",
+                "showroom": "https://www.chevrolet.co.kr/purchase/dealer-location.gm",
+                "consulting": "https://www.chevrolet.co.kr/purchase/quote.gm",
+                "guarantee": "https://www.chevrolet.co.kr/chevy/care.gm",
+                "homepage": "https://www.chevrolet.co.kr/",
+                "origin": "combination",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "orgKeyword": "쉐보레",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1590744989300,
+                "video": 1590152683000,
+                "harmony": 1590731625006,
+                "comment": 1573882626000
+            },
+            "contentsCounter": {
+                "news": 1689,
+                "video": 185,
+                "harmony": 1012,
+                "comment": 426,
+                "outlink": 0
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2r0002u00zv.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2r0002u00zv.png"
+            },
+            "totalCount": 1689,
+            "keyword": ["쉐보레", "GMKorea-CHEVROLET"],
+            "regDt": 1543219486370,
+            "modiDt": 1577398589949
+        }
+    },
+    {
+        "_id": 1162104,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쌍용 G4 렉스턴 (2세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gpa0009qRRne",
+            "releaseDate": "20170101",
+            "maxPassengers": "5",
+            "maxEfficiency": "10.5",
+            "grades": "rh30011pGGar,rh50011qGG6v,r2g0012bGGdz,r2i0012cGGq5,r3a0012dGGyo,r3d0012eGGk4,rzc0002kZZya,rzh0002lZZk7",
+            "orgId": "m6x000glppdh",
+            "powerTrain": "DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "10.1",
+            "sterilizeDate": "00000000",
+            "series": "sh70007g11ew",
+            "segment": "D",
+            "brand": "b2l0001l003c",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_597",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:12.888+0900",
+            "latestReleaseDate": "20200401",
+            "years": "2017,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/3fff1e/47B6614D3EDECBF9974943ED19D188C9B0F9D9B7A13DE3CC6A_6OU9",
+            "description": "",
+            "orgKeyword": "쌍용 G4 렉스턴 (2세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 101,
+            "maxEfficiency": 105,
+            "minPrice": 33610000,
+            "maxPrice": 45510000,
+            "avgRate": 4.6,
+            "pv": 213
+        },
+        "contentsMapDt": {
+            "news": 1589160841309,
+            "harmony": 1587099475690,
+            "photo": 1562959642115,
+            "comment": 1589184340000,
+            "video": 1587216386000
+        },
+        "contentsCounter": {
+            "news": 118,
+            "harmony": 22,
+            "photo": 14,
+            "comment": 4,
+            "video": 13
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/3fff1e/47B6614D3EDECBF9974943ED19D188C9B0F9D9B7A13DE3CC6A_6OU9"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "지포렉스턴",
+            "G4 렉스턴",
+            "G4 REXTON",
+            "G4렉스턴",
+            "G4REXTON",
+            "렉스턴g4"
+        ],
+        "regDt": 1543222452949,
+        "modiDt": 1589160841309,
+        "parentCluster": {
+            "_id": 1161300,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쌍용",
+            "etcInfo": {
+                "titleEn": "Ssangyong",
+                "orgId": "b2l0001l003c",
+                "order": "03",
+                "appendPrefix": "Y",
+                "tel1": "080-500-5582",
+                "showroom": "http://www.smotor.com/kr/purchase/deal_guide/exhibition/index.html",
+                "consulting": "http://www.smotor.com/kr/purchase/con_req/si_req/index.html",
+                "guarantee": "http://www.smotor.com/kr/service/service/repair/repair_re/index.html",
+                "homepage": "http://www.smotor.com/kr/index.html",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "orgKeyword": "쌍용",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1589238013152,
+                "harmony": 1590727200869,
+                "video": 1590491779000,
+                "comment": 1573949389000
+            },
+            "contentsCounter": {
+                "news": 864,
+                "harmony": 374,
+                "video": 117,
+                "comment": 556
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2l0001l003c.png"
+            },
+            "totalCount": 864,
+            "keyword": ["쌍용", "Ssangyong"],
+            "regDt": 1543219486679,
+            "modiDt": 1577398589744
+        }
+    },
+    {
+        "_id": 1352738,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쌍용 코란도 (4세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gdb0000bNNja",
+            "lastUpdatedAt": "2020-05-07T17:06:38.027+0900",
+            "releaseDate": "20190226",
+            "cpId": "M_1296",
+            "maxPassengers": "5",
+            "maxEfficiency": "14.5",
+            "efficiencyUnit": "km/l",
+            "grades": "rgg0000hppe8,rfl0000k77tm,rfp0000l77ez,rfr0000m77en,rst0000dkk22,rsz0000ekkj7",
+            "orgId": "mef00006xxn2",
+            "powerTrain": "DIESEL,GASOLINE",
+            "minPassengers": "5",
+            "minEfficiency": "11.3",
+            "sterilizeDate": "00000000",
+            "series": "sh30007e11o0",
+            "imported": "N",
+            "segment": "D",
+            "brand": "b2l0001l003c",
+            "latestReleaseDate": "20200101",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/b9ff4b/1D843CAC388EB2E7CE5DB3F77160802AAC9B2C7863F14FB483_4Z55",
+            "description": "",
+            "orgKeyword": "쌍용 코란도 (4세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 113,
+            "maxEfficiency": 145,
+            "minPrice": 21970000,
+            "maxPrice": 31780000,
+            "avgRate": 3.8,
+            "pv": 225
+        },
+        "contentsMapDt": {
+            "news": 1587522603984,
+            "harmony": 1590727200869,
+            "photo": 1562959630751,
+            "video": 1590491779000
+        },
+        "contentsCounter": {
+            "news": 150,
+            "harmony": 143,
+            "photo": 77,
+            "video": 35
+        },
+        "image": {
+                                    "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/b9ff4b/1D843CAC388EB2E7CE5DB3F77160802AAC9B2C7863F14FB483_4Z55"
+        },
+        "totalCount": 150,
+        "keyword": ["코란도", "KORANDO"],
+        "regDt": 1550495162239,
+        "modiDt": 1590727200869,
+        "parentCluster": {
+            "_id": 1161300,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쌍용",
+            "etcInfo": {
+                "titleEn": "Ssangyong",
+                "orgId": "b2l0001l003c",
+                "order": "03",
+                "appendPrefix": "Y",
+                "tel1": "080-500-5582",
+                "showroom": "http://www.smotor.com/kr/purchase/deal_guide/exhibition/index.html",
+                "consulting": "http://www.smotor.com/kr/purchase/con_req/si_req/index.html",
+                "guarantee": "http://www.smotor.com/kr/service/service/repair/repair_re/index.html",
+                "homepage": "http://www.smotor.com/kr/index.html",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "orgKeyword": "쌍용",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1589238013152,
+                "harmony": 1590727200869,
+                "video": 1590491779000,
+                "comment": 1573949389000
+            },
+            "contentsCounter": {
+                "news": 864,
+                "harmony": 374,
+                "video": 117,
+                "comment": 556
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2l0001l003c.png"
+            },
+            "totalCount": 864,
+            "keyword": ["쌍용", "Ssangyong"],
+            "regDt": 1543219486679,
+            "modiDt": 1577398589744
+        }
+    },
+    {
+        "_id": 1162100,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쌍용 렉스턴 스포츠 (1세대)",
+        "etcInfo": {
+            "bodyType": "PICK_UP_TRUCK",
+            "generation": "gpt0009tRRrg",
+            "releaseDate": "20190103",
+            "maxPassengers": "5",
+            "maxEfficiency": "10.4",
+            "grades": "rww00129GGm0,rx00012aGG1d,rrn00098wwun,rrr0009dwwz1,rce0002gZZo6,rcj0002hZZsu",
+            "orgId": "mf5000gsppuu",
+            "powerTrain": "DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "10.1",
+            "sterilizeDate": "00000000",
+            "series": "sh70007g11ew",
+            "segment": "D",
+            "brand": "b2l0001l003c",
+            "group": "TRUCK",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_601",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2020-05-07T17:06:14.994+0900",
+            "latestReleaseDate": "20190902",
+            "years": "2018,2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/a7baac/BCAF46216126E6DB0C93A420F198890E73F361C588A7B42375_6RO0",
+            "description": "",
+            "orgKeyword": "쌍용 렉스턴 스포츠 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 101,
+            "maxEfficiency": 104,
+            "minPrice": 24190000,
+            "maxPrice": 34400000,
+            "avgRate": 3.7,
+            "pv": 161
+        },
+        "contentsMapDt": {
+            "news": 1588812121000,
+            "harmony": 1587517573426,
+            "photo": 1562959641871,
+            "video": 1554357935000
+        },
+        "contentsCounter": {
+            "news": 89,
+            "harmony": 12,
+            "photo": 20,
+            "video": 5
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/a7baac/BCAF46216126E6DB0C93A420F198890E73F361C588A7B42375_6RO0"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "렉스턴 스포츠",
+            " REXTON SPORTS",
+            " 렉스턴스포츠",
+            " REXTONSPORTS"
+        ],
+        "regDt": 1543222452819,
+        "modiDt": 1588812121000,
+        "parentCluster": {
+            "_id": 1161300,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쌍용",
+            "etcInfo": {
+                "titleEn": "Ssangyong",
+                "orgId": "b2l0001l003c",
+                "order": "03",
+                "appendPrefix": "Y",
+                "tel1": "080-500-5582",
+                "showroom": "http://www.smotor.com/kr/purchase/deal_guide/exhibition/index.html",
+                "consulting": "http://www.smotor.com/kr/purchase/con_req/si_req/index.html",
+                "guarantee": "http://www.smotor.com/kr/service/service/repair/repair_re/index.html",
+                "homepage": "http://www.smotor.com/kr/index.html",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "orgKeyword": "쌍용",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1589238013152,
+                "harmony": 1590727200869,
+                "video": 1590491779000,
+                "comment": 1573949389000
+            },
+            "contentsCounter": {
+                "news": 864,
+                "harmony": 374,
+                "video": 117,
+                "comment": 556
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2l0001l003c.png"
+            },
+            "totalCount": 864,
+            "keyword": ["쌍용", "Ssangyong"],
+            "regDt": 1543219486679,
+            "modiDt": 1577398589744
+        }
+    },
+    {
+        "_id": 1295687,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쌍용 렉스턴 스포츠 칸 (1세대)",
+        "etcInfo": {
+            "bodyType": "PICK_UP_TRUCK",
+            "generation": "gpt0009tRRrg",
+            "releaseDate": "20190103",
+            "cpId": "M_1273",
+            "maxPassengers": "5",
+            "maxEfficiency": "10.3",
+            "efficiencyUnit": "km/l",
+            "grades": "ram0000sddyw,r0l0001a44yt,rvq0002iZZhr,rvt0002jZZkd",
+            "orgId": "m0t0001b44pf",
+            "powerTrain": "DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "10.0",
+            "sterilizeDate": "00000000",
+            "series": "sh70007g11ew",
+            "imported": "N",
+            "segment": "D",
+            "brand": "b2l0001l003c",
+            "group": "TRUCK",
+            "salesStatus": "S",
+            "lastUpdatedAt": "2020-05-07T17:06:38.424+0900",
+            "latestReleaseDate": "20190902",
+            "years": "2019,2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/2a29b8/61E2C4A51F980B6EC48C01045EAB7204C6C0019BC595C54634_78DT",
+            "description": "",
+            "orgKeyword": "쌍용 렉스턴 스포츠 칸 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 100,
+            "maxEfficiency": 103,
+            "minPrice": 27950000,
+            "maxPrice": 36900000,
+            "avgRate": 3.7,
+            "pv": 84
+        },
+        "contentsMapDt": {
+            "news": 1587429160844,
+            "harmony": 1587109802078,
+            "photo": 1571599626089,
+            "comment": 1582386444000,
+            "video": 1572398790000
+        },
+        "contentsCounter": {
+            "news": 39,
+            "harmony": 53,
+            "photo": 11,
+            "comment": 1,
+            "video": 15
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/2a29b8/61E2C4A51F980B6EC48C01045EAB7204C6C0019BC595C54634_78DT"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "렉스턴 스포츠 칸",
+            " REXTON SPORTS KHAN",
+            " 렉스턴스포츠칸",
+            " REXTONSPORTSKHAN"
+        ],
+        "regDt": 1548120545919,
+        "modiDt": 1587429160844,
+        "parentCluster": {
+            "_id": 1161300,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쌍용",
+            "etcInfo": {
+                "titleEn": "Ssangyong",
+                "orgId": "b2l0001l003c",
+                "order": "03",
+                "appendPrefix": "Y",
+                "tel1": "080-500-5582",
+                "showroom": "http://www.smotor.com/kr/purchase/deal_guide/exhibition/index.html",
+                "consulting": "http://www.smotor.com/kr/purchase/con_req/si_req/index.html",
+                "guarantee": "http://www.smotor.com/kr/service/service/repair/repair_re/index.html",
+                "homepage": "http://www.smotor.com/kr/index.html",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "orgKeyword": "쌍용",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1589238013152,
+                "harmony": 1590727200869,
+                "video": 1590491779000,
+                "comment": 1573949389000
+            },
+            "contentsCounter": {
+                "news": 864,
+                "harmony": 374,
+                "video": 117,
+                "comment": 556
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2l0001l003c.png"
+            },
+            "totalCount": 864,
+            "keyword": ["쌍용", "Ssangyong"],
+            "regDt": 1543219486679,
+            "modiDt": 1577398589744
+        }
+    },
+    {
+        "_id": 1548611,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쌍용 티볼리 F/L (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gp80009pRR3y",
+            "lastUpdatedAt": "2020-05-07T17:06:33.168+0900",
+            "releaseDate": "20190604",
+            "cpId": "M_1399",
+            "maxPassengers": "5",
+            "maxEfficiency": "14.5",
+            "efficiencyUnit": "km/l",
+            "grades": "ri10000loo48,ria0000mooaf,ror0000wddfe,rou0000xddp1",
+            "orgId": "mvr0000all1u",
+            "powerTrain": "GASOLINE,DIESEL",
+            "minPassengers": "5",
+            "minEfficiency": "10.2",
+            "sterilizeDate": "00000000",
+            "series": "sh10007d11no",
+            "imported": "N",
+            "segment": "C",
+            "brand": "b2l0001l003c",
+            "latestReleaseDate": "20190604",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "years": "2020",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/01d335/C516490228290FBA221C0A45704BDDE2DD1FE98DEDC4465483_6UP0",
+            "description": "",
+            "orgKeyword": "쌍용 티볼리 F/L (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 102,
+            "maxEfficiency": 145,
+            "maxPrice": 26450000,
+            "minPrice": 16400000,
+            "avgRate": 3.7,
+            "pv": 142
+        },
+        "contentsMapDt": {
+            "news": 1588126545869,
+            "harmony": 1590537601671,
+            "photo": 1562959629826,
+            "video": 1589283974000
+        },
+        "contentsCounter": {
+            "news": 65,
+            "harmony": 74,
+            "photo": 2,
+            "video": 33
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/01d335/C516490228290FBA221C0A45704BDDE2DD1FE98DEDC4465483_6UP0"
+        },
+        "totalCount": 65,
+        "keyword": ["티볼리 F/L", "TIVOLI F/L", "티볼리F/L", "TIVOLIF/L"],
+        "regDt": 1558339562741,
+        "modiDt": 1590537601671,
+        "parentCluster": {
+            "_id": 1161300,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쌍용",
+            "etcInfo": {
+                "titleEn": "Ssangyong",
+                "orgId": "b2l0001l003c",
+                "order": "03",
+                "appendPrefix": "Y",
+                "tel1": "080-500-5582",
+                "showroom": "http://www.smotor.com/kr/purchase/deal_guide/exhibition/index.html",
+                "consulting": "http://www.smotor.com/kr/purchase/con_req/si_req/index.html",
+                "guarantee": "http://www.smotor.com/kr/service/service/repair/repair_re/index.html",
+                "homepage": "http://www.smotor.com/kr/index.html",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "orgKeyword": "쌍용",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1589238013152,
+                "harmony": 1590727200869,
+                "video": 1590491779000,
+                "comment": 1573949389000
+            },
+            "contentsCounter": {
+                "news": 864,
+                "harmony": 374,
+                "video": 117,
+                "comment": 556
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2l0001l003c.png"
+            },
+            "totalCount": 864,
+            "keyword": ["쌍용", "Ssangyong"],
+            "regDt": 1543219486679,
+            "modiDt": 1577398589744
+        }
+    },
+    {
+        "_id": 1162106,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쌍용 티볼리 아머 (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gp80009pRR3y",
+            "releaseDate": "20170101",
+            "maxPassengers": "0",
+            "maxEfficiency": "14.2",
+            "grades": "r8m0010zGG23,r8p00110GGgi,r8s00111GGy3,r8u00112GGd0,r8w00113GGfl,r8y00114GGt8,r9100115GG3m,r9300116GGkp,r9400117GGpa,r9600118GGau,r9800119GGex,r9a0011aGGha",
+            "orgId": "m44000gipp21",
+            "powerTrain": "GASOLINE,DIESEL",
+            "minPassengers": "0",
+            "minEfficiency": "10.7",
+            "sterilizeDate": "00000000",
+            "series": "sh10007d11no",
+            "segment": "C",
+            "brand": "b2l0001l003c",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_595",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2019-12-27T20:05:34.584+0900",
+            "latestReleaseDate": "20181101",
+            "years": "2017,2018,2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/18c33d/8594E59F1BBE1FF938183ED9C0EE10DEA4C2019A785B175225_6CLW",
+            "description": "",
+            "orgKeyword": "쌍용 티볼리 아머 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 107,
+            "maxEfficiency": 142,
+            "minPrice": 16260000,
+            "maxPrice": 25530000,
+            "avgRate": 4.0
+        },
+        "contentsMapDt": {
+            "news": 1554760560852,
+            "harmony": 1554430570725,
+            "photo": 1562959702956,
+            "video": 1513775519000,
+            "comment": 1573064750000
+        },
+        "contentsCounter": {
+            "news": 74,
+            "harmony": 5,
+            "photo": 26,
+            "video": 3,
+            "comment": 5
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/18c33d/8594E59F1BBE1FF938183ED9C0EE10DEA4C2019A785B175225_6CLW"
+        },
+        "totalCount": 0,
+        "keyword": [
+            "티볼리 아머",
+            "TIVOLI ARMOUR",
+            "티볼리아머",
+            "TIVOLIARMOUR"
+        ],
+        "regDt": 1543222453113,
+        "modiDt": 1554760560852,
+        "parentCluster": {
+            "_id": 1161300,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쌍용",
+            "etcInfo": {
+                "titleEn": "Ssangyong",
+                "orgId": "b2l0001l003c",
+                "order": "03",
+                "appendPrefix": "Y",
+                "tel1": "080-500-5582",
+                "showroom": "http://www.smotor.com/kr/purchase/deal_guide/exhibition/index.html",
+                "consulting": "http://www.smotor.com/kr/purchase/con_req/si_req/index.html",
+                "guarantee": "http://www.smotor.com/kr/service/service/repair/repair_re/index.html",
+                "homepage": "http://www.smotor.com/kr/index.html",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "orgKeyword": "쌍용",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1589238013152,
+                "harmony": 1590727200869,
+                "video": 1590491779000,
+                "comment": 1573949389000
+            },
+            "contentsCounter": {
+                "news": 864,
+                "harmony": 374,
+                "video": 117,
+                "comment": 556
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2l0001l003c.png"
+            },
+            "totalCount": 864,
+            "keyword": ["쌍용", "Ssangyong"],
+            "regDt": 1543219486679,
+            "modiDt": 1577398589744
+        }
+    },
+    {
+        "_id": 1162105,
+        "factor": {
+            "service": "auto",
+            "category": "auto",
+            "type": "models",
+            "status": "S",
+            "important": "false"
+        },
+        "title": "쌍용 티볼리 에어 (1세대)",
+        "etcInfo": {
+            "bodyType": "SUV",
+            "generation": "gp80009pRR3y",
+            "releaseDate": "20160101",
+            "maxPassengers": "0",
+            "maxEfficiency": "13.3",
+            "grades": "rbh0011bGGf0,rbk0011cGG9r,rbl0011dGGn8,rbo0011eGGul,rbq0011fGGhx,rbs0011gGGbh,rbt0011hGGzd,rbv0011iGGa3,rbx0011jGGli,re80011kGGpc,reb0011lGGj9,rec0011mGG00,ree0011nGGhd,reg0011oGGgg",
+            "orgId": "m45000gjppo2",
+            "powerTrain": "GASOLINE,DIESEL",
+            "minPassengers": "0",
+            "minEfficiency": "10.0",
+            "sterilizeDate": "00000000",
+            "series": "sh10007d11no",
+            "segment": "D",
+            "brand": "b2l0001l003c",
+            "group": "PASSENGER_CAR",
+            "salesStatus": "S",
+            "imported": "N",
+            "cpId": "M_596",
+            "efficiencyUnit": "km/l",
+            "lastUpdatedAt": "2019-12-27T20:05:34.534+0900",
+            "latestReleaseDate": "20180922",
+            "years": "2016,2017,2018,2019",
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/1d782c/8995E3BF2E2A569690EE84C8DD04E072ED2A6F8CD9897A3B97_6XKM",
+            "description": "",
+            "orgKeyword": "쌍용 티볼리 에어 (1세대)",
+            "mlTrainYn": "N",
+            "mlStep": "R"
+        },
+        "ranking": {
+            "minEfficiency": 100,
+            "maxEfficiency": 133,
+            "minPrice": 18760000,
+            "maxPrice": 26610000,
+            "avgRate": 4.9
+        },
+        "contentsMapDt": {
+            "news": 1589238013152,
+            "harmony": 1589932806082,
+            "photo": 1562959702796,
+            "video": 1512621387000
+        },
+        "contentsCounter": {
+            "news": 83,
+            "harmony": 29,
+            "photo": 45,
+            "video": 4
+        },
+        "image": {
+            "exterior": "https://t1.daumcdn.net/media/vitraya/auto/image/1d782c/8995E3BF2E2A569690EE84C8DD04E072ED2A6F8CD9897A3B97_6XKM"
+        },
+        "totalCount": 83,
+        "keyword": ["티볼리 에어", "TIVOLI AIR", "티볼리에어", "TIVOLIAIR"],
+        "regDt": 1543222453052,
+        "modiDt": 1589932806082,
+        "parentCluster": {
+            "_id": 1161300,
+            "factor": {
+                "service": "auto",
+                "category": "domestic",
+                "type": "brands",
+                "status": "S",
+                "important": "false"
+            },
+            "title": "쌍용",
+            "etcInfo": {
+                "titleEn": "Ssangyong",
+                "orgId": "b2l0001l003c",
+                "order": "03",
+                "appendPrefix": "Y",
+                "tel1": "080-500-5582",
+                "showroom": "http://www.smotor.com/kr/purchase/deal_guide/exhibition/index.html",
+                "consulting": "http://www.smotor.com/kr/purchase/con_req/si_req/index.html",
+                "guarantee": "http://www.smotor.com/kr/service/service/repair/repair_re/index.html",
+                "homepage": "http://www.smotor.com/kr/index.html",
+                "origin": "domestic",
+                "description": "",
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "orgKeyword": "쌍용",
+                "mlTrainYn": "N",
+                "mlStep": "W"
+            },
+            "contentsMapDt": {
+                "news": 1589238013152,
+                "harmony": 1590727200869,
+                "video": 1590491779000,
+                "comment": 1573949389000
+            },
+            "contentsCounter": {
+                "news": 864,
+                "harmony": 374,
+                "video": 117,
+                "comment": 556
+            },
+            "image": {
+                "logo": "https://t1.daumcdn.net/media/img-section/auto2017/company/b2l0001l003c.png",
+                "whiteLogo": "https://t1.daumcdn.net/media/img-section/auto2017/company/white/b2l0001l003c.png"
+            },
+            "totalCount": 864,
+            "keyword": ["쌍용", "Ssangyong"],
+            "regDt": 1543219486679,
+            "modiDt": 1577398589744
+        }
+    }
+]

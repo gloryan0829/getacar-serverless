@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "brandCode": "b2l0001l003c",
+        "brandName": "쌍용",
+        "brandLogo": "https://img1.daumcdn.net/thumb/P48x48/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fauto2017%2Fcompany%2Fwhite%2Fb2l0001l003c.png"
+    },
+    {
+        "id": 1,
+        "brandCode": "b2r0002u00zv",
+        "brandName": "쉐보레",
+        "brandLogo": "https://img1.daumcdn.net/thumb/P48x48/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fauto2017%2Fcompany%2Fwhite%2Fb2r0002u00zv.png"
+    },
+    {
+        "id": 2,
+        "brandCode": "bde0000600fm",
+        "brandName": "기아",
+        "brandLogo": "https://img1.daumcdn.net/thumb/P48x48/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmedia%2Fimg-section%2Fauto2017%2Fcompany%2Fwhite%2Fbde0000600fm.png"
+    }
+]
