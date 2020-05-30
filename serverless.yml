@@ -1,7 +1,5 @@
-#service:
-# app and org for use with dashboard.serverless.com
-app: getacar
-org: day34
+service:
+  name: getacar
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
